@@ -1,0 +1,5 @@
+include ':app', ':library'
+include ':alisdk'
+include ':baidusdk'
+include ':tencentsdk'
+include ':xiaomisdk'
